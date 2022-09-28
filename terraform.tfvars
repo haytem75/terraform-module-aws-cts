@@ -26,8 +26,8 @@ services = {
     node_tagged_addresses = {
       lan      = "10.0.141.17"
       lan_ipv4 = "10.0.141.17"
-      wan      = "35.87.124.2"
-      wan_ipv4 = "35.87.124.2"
+      wan      = ""
+      wan_ipv4 = ""
     }
     node_meta = {
       consul-network-segment = ""
@@ -51,8 +51,8 @@ services = {
     node_tagged_addresses = {
       lan      = "10.0.74.232"
       lan_ipv4 = "10.0.74.232"
-      wan      = "52.33.100.118"
-      wan_ipv4 = "52.33.100.118"
+      wan      = ""
+      wan_ipv4 = ""
     }
     node_meta = {
       consul-network-segment = ""
@@ -76,8 +76,8 @@ services = {
     node_tagged_addresses = {
       lan      = "10.0.74.160"
       lan_ipv4 = "10.0.74.160"
-      wan      = "52.34.128.100"
-      wan_ipv4 = "52.34.128.100"
+      wan      = ""
+      wan_ipv4 = ""
     }
     node_meta = {
       consul-network-segment = ""
